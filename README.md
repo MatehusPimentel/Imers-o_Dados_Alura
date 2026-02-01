@@ -1,49 +1,44 @@
-# Imersao_Dados_Alura
 # 📊 Imersão Dados Alura – Dashboard de Salários
 
-Dashboard interativo desenvolvido com **Streamlit** para análise de salários na área de dados, utilizando os dados da **Imersão Dados da Alura**.  
-O projeto permite explorar tendências salariais por cargo, senioridade, país, tipo de contrato, porte da empresa e muito mais.
+Acesse o **dashboard interativo online** aqui:  
+🌐 👉 https://imersaodasdsocomalura-fdpu6bg8wzpbu9nufh2the.streamlit.app/
 
-![Preview do Dashboard](./preview.png)
+Um painel de análise de salários na área de dados, construído com **Streamlit**, que permite explorar tendências globais de remuneração por cargo, senioridade, país, tipo de contrato e muito mais!
 
 ---
 
-## 🚀 Funcionalidades
+## 🧠 Visão Geral do Projeto
 
-- 🔍 **Filtros interativos**:
-  - Ano
-  - Senioridade
-  - Tipo de contrato
-  - Porte da empresa
-  - Faixa salarial
-- 📊 **KPIs principais**:
-  - Salário médio
-  - Salário mediano
-  - Salário mínimo e máximo
-  - Cargo mais frequente
-- 📈 **Visualizações interativas com Plotly**:
-  - Top cargos por salário
-  - Evolução salarial ao longo dos anos
-  - Salário por senioridade
-  - Distribuição salarial
-  - Mapa de salários por país
-- 🌍 **Análise geográfica**
-- 📋 **Tabela de dados filtráveis**
-- 📥 Download dos dados filtrados em CSV
-- 🎨 Interface customizada com CSS
+Este dashboard foi criado como parte da **Imersão Dados da Alura**, com foco em:
+
+- 📊 Inteligência de dados
+- 📈 Visualizações interativas com **Plotly**
+- 🔎 Exploração e filtragem de grandes conjuntos de dados
+- 💼 Insights sobre o mercado de trabalho na área de dados
+
+---
+
+## 📌 Principais Funcionalidades
+
+✔ Filtros interativos (ano, senioridade, contrato, salário, etc.)  
+✔ KPIs principais (média, mediana, min/max, cargos mais comuns)  
+✔ Gráficos interativos com Plotly  
+✔ Mapa de salários por país  
+✔ Tabela de dados com opção de download  
+✔ Interface com CSS customizado  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python**
-- **Streamlit**
-- **Pandas**
-- **Plotly (Express e Graph Objects)**
-- **CSS customizado**
-- **Git & GitHub**
+- Python  
+- Streamlit  
+- Plotly  
+- Pandas  
+- CSS customizado  
+- Git & GitHub  
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📁 Estrutura do Repositório
 
