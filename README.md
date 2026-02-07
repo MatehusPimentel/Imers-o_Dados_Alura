@@ -4,7 +4,7 @@ Acesse o **dashboard interativo online** aqui:
 🌐 **Dashboard online:**
 [Acessar o Dashboard](https://imersaodasdsocomalura-fdpu6bg8wzpbu9nufh2the.streamlit.app/)
 
-Um painel de análise de salários na área de dados, construído com **Streamlit**, que permite explorar tendências globais de remuneração por cargo, senioridade, país, tipo de contrato e muito mais!
+Um painel de análise de salários na área de dados, construído com **Streamlit**, que explorar tendências globais por cargos, senioridades, países, tipo de contratos e muito mais.
 
 ---
 
@@ -37,9 +37,6 @@ Este dashboard foi criado como parte da **Imersão Dados da Alura**, com foco em
 - Plotly  
 - Pandas  
 - CSS customizado  
-- Git & GitHub  
+- Git & GitHub
 
----
-
-## 📁 Estrutura do Repositório
 
